@@ -26,6 +26,8 @@ npm install
 sh docker/setUpTestEnv/setupdb.sh
 sh docker/setUpProdEnv/setupdb.sh
 ```
+setupdb.sh will initialize an empty postgresql database in docker
+
 
 **Testing**
 ```
